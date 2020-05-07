@@ -1,3 +1,4 @@
+// module.exports = fifaData = [
 export const fifaData = [
   {
     Year: 1930,
